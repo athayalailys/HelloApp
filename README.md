@@ -28,7 +28,7 @@ warna hijau muda.
 
 ## 🛠️ Teknologi yang Digunakan
 - Android Studio
-- Bahasa: Java
+- Bahasa: Kotlin
 - XML Layout
 - Resource Theme (`themes.xml` dan `themes.xml (night)`)
 
@@ -55,7 +55,6 @@ HelloApp/
 ├── settings.gradle
 ├── gradlew
 ├── gradlew.bat
-└── README.md
 ```
 
 ---
@@ -63,10 +62,6 @@ HelloApp/
 ## 🚀 Cara Menjalankan Aplikasi (STEP BY STEP)
 
 ### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/USERNAME/HelloApp.git
-```
-
 ---
 
 ### 2️⃣ Buka Project di Android Studio
