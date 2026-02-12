@@ -109,11 +109,6 @@ git clone https://github.com/USERNAME/HelloApp.git
 
 ---
 
-## 📸 Screenshot Aplikasi
-(Tambahkan 2–3 screenshot tampilan aplikasi di sini)
-
----
-
 ## 👤 Identitas
 - Nama: **Athaya Laily Syafitri**
 - NIM: **2310817220008**
